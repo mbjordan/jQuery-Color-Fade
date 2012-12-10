@@ -1,8 +1,8 @@
 /*
-jQuery Color Fade v0.1
-A jQuery plugin to fade the background-color of an element.
-Released under the CC BY 3.0 License (http://creativecommons.org/licenses/by/3.0/)
-https://github.com/matthewbj/jQuery-Color-Fade
+  jQuery Color Fade v0.1
+  A jQuery plugin to fade the background-color of an element.
+  Released under the CC BY 3.0 License (http://creativecommons.org/licenses/by/3.0/)
+  https://github.com/matthewbj/jQuery-Color-Fade
 */
 
 (function ($) {
