@@ -7,6 +7,12 @@ View a [JS Bin demo](http://jsbin.com/iqikev/2).
 ## Use
 
     $('myElement').colorFade();
+    
+    // And, with options:   
+    $('myElement').colorFade({
+        'option': 'value'
+    });
+    
 
 __Options:__
 
